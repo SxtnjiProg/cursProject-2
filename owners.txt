@@ -1,0 +1,8 @@
+car AA1234BB Max_Parhomenko str._Grushevskogo_4 Toyota 2010 2.5 3217554 1234567890 1234567890 Red 0 1
+car AH1234BD Mar'yana_Boyko Stepana_Banderi_st._12 Toyota 2010 2.5 3213554 1234567809 1234569099 Red 0 1
+car BC5678DE Oleksandr_Kravets 8_Bulvarno-Kudryavska_vul. Honda 2015 1.8 1288999 2345678912 2345678912 Silver 1 1
+car CD9012EF Natalia_Shevchenko 16_Sahaydachnogo_St. Mazda 2018 2 2333788 3456789123 3456789123 Black 0 0
+car DE3456FG Oksana_Bila vul.Tarasivska_20 Nissan 2019 2.5 3900999 4567891234 4567891234 Blue 0 0
+car FG7890GH Evgeniya_Ivanenko 14_Chornovola_St. BMW 2017 2.2 4677888 5678912345 5678912345 White 0 1
+car GH2345IJ Vitaliy_Shevchenko Knyagini_Olga_st._2 Audi 2021 2 5999555 6789123456 6789123456 Black 1 1
+truck GH2325IJ Vitaliy_Shevchenko Knyagini_Olga_st._2 Ford 2015 2.5 5999555 6789123456 6789123456 Black 1 1
