@@ -1,0 +1,4 @@
+Car AH7642AD Autocentr/Max/ Sokylyky Zelenskogo_21 Max_Parhomenko Ford 2018 1.2 123123433 123213213 34324324 red 1 0
+Car AA1234BB Coca-Cola.inc Podilskyi Varinykiv_21 Bogdan_Derzkiy Ford 2012 2.3 32324234 1233667890 12334454890 Coca-cola 1 1
+Truck BC5678DE ABC_Company Shevchenkivskyi Morskaya_12 John_Doe Volvo 2015 3 9876543 0987654321 0987654321 Blue 1 1
+Car AA1234AA Maxmara Sokylnyky St_Olgy_21 Max_Kuziv ford 2005 1.2 123213 123123 12333 red 1 1

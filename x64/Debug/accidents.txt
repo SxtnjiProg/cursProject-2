@@ -1,0 +1,48 @@
+2023-05-13 Collision S.Bandery 2 5000.2 Drunken state of one of the drivers 2
+Truck
+AA9182AP
+
+Car
+BB2345AC
+
+
+2023-07-29 Rear-end_collision Morskaya 1 3000.2 Wet road 2
+Motorcycle
+CC3456BD
+
+Van
+DD4567CE
+
+
+2023-05-14 Head-on_collision Morskaya 7 54000 Drunken state of one of the drivers 2
+Bus
+AH1239BR
+
+Car
+AP4547CE
+
+
+2023-05-13 Collision S.Bandery 2 5000.2 Drunken state of one of the drivers 2
+Truck
+AA9182AP
+
+Car
+BB2345AC
+
+
+2023-07-29 Rear-end_collision Morskaya 1 3000.2 Wet road 2
+Motorcycle
+CC3456BD
+
+Van
+DD4567CE
+
+
+2023-05-14 Head-on_collision Morskaya 7 54000 Drunken state of one of the drivers 2
+Bus
+AH1239BR
+
+Car
+AP4547CE
+
+
